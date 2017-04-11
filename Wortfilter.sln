@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wortfilter", "Wortfilter\Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{F900D776-8493-4EF0-9B55-F4AC53DFDDEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bestellanwendung", "Bestellanwendung\Bestellanwendung.csproj", "{A0DABFEF-312F-4280-A2C8-A55654F9BC7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamsDemo", "StreamsDemo\StreamsDemo.csproj", "{C7DDADCD-5E5C-424E-9DCE-199F97F79107}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F900D776-8493-4EF0-9B55-F4AC53DFDDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F900D776-8493-4EF0-9B55-F4AC53DFDDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F900D776-8493-4EF0-9B55-F4AC53DFDDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DABFEF-312F-4280-A2C8-A55654F9BC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DABFEF-312F-4280-A2C8-A55654F9BC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DABFEF-312F-4280-A2C8-A55654F9BC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DABFEF-312F-4280-A2C8-A55654F9BC7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DDADCD-5E5C-424E-9DCE-199F97F79107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DDADCD-5E5C-424E-9DCE-199F97F79107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DDADCD-5E5C-424E-9DCE-199F97F79107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DDADCD-5E5C-424E-9DCE-199F97F79107}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
